@@ -1,0 +1,100 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 72.185 sec <<< FAILURE!
+login(com.cases.TestStartCase)  Time elapsed: 40.878 sec  <<< FAILURE!
+java.lang.Exception: org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 512 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:49:13 -0700'
+System info: host: 'DESKTOP-272J02D', ip: '30.87.249.71', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.choicesoft.mobile.ipos, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, deviceName=M101174900850, platform=LINUX, appActivity=.activity.MainActivity, desired={appPackage=com.choicesoft.mobile.ipos, appActivity=.activity.MainActivity, platformVersion=5.1, platformName=Android, deviceName=Android Emulator}, platformVersion=5.1, webStorageEnabled=false, locationContextEnabled=false, browserName=Android, takesScreenshot=true, javascriptEnabled=true, platformName=Android}]
+Session ID: fc7a23a6-8297-4a29-8127-931accf18a32
+*** Element info: {Using=xpath, value=//android.view.View[@content-desc='???']}
+	at com.common.Common.waitForElementPresent(Common.java:94)
+	at com.common.Common.clickBtn(Common.java:168)
+	at com.base.StartBase.startToLogin(StartBase.java:26)
+	at com.cases.TestStartCase.login(TestStartCase.java:28)
+Caused by: org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 512 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:49:13 -0700'
+System info: host: 'DESKTOP-272J02D', ip: '30.87.249.71', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.choicesoft.mobile.ipos, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, deviceName=M101174900850, platform=LINUX, appActivity=.activity.MainActivity, desired={appPackage=com.choicesoft.mobile.ipos, appActivity=.activity.MainActivity, platformVersion=5.1, platformName=Android, deviceName=Android Emulator}, platformVersion=5.1, webStorageEnabled=false, locationContextEnabled=false, browserName=Android, takesScreenshot=true, javascriptEnabled=true, platformName=Android}]
+Session ID: fc7a23a6-8297-4a29-8127-931accf18a32
+*** Element info: {Using=xpath, value=//android.view.View[@content-desc='???']}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:216)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:168)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:635)
+	at io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:42)
+	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:62)
+	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:473)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElementByXPath(DefaultGenericMobileDriver.java:140)
+	at io.appium.java_client.AppiumDriver.findElementByXPath(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.findElementByXPath(AndroidDriver.java:1)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:360)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:58)
+	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
+	at com.common.Common.waitForElementPresent(Common.java:87)
+	... 36 more
+
+release(com.cases.TestStartCase)  Time elapsed: 7.253 sec  <<< FAILURE!
+java.lang.Exception: org.openqa.selenium.UnsupportedCommandException: Invalid locator strategy: css selector (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 17 milliseconds
+Build info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:49:13 -0700'
+System info: host: 'DESKTOP-272J02D', ip: '30.87.249.71', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.choicesoft.mobile.ipos, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, deviceName=M101174900850, platform=LINUX, appActivity=.activity.MainActivity, desired={appPackage=com.choicesoft.mobile.ipos, appActivity=.activity.MainActivity, platformVersion=5.1, platformName=Android, deviceName=Android Emulator}, platformVersion=5.1, webStorageEnabled=false, locationContextEnabled=false, browserName=Android, takesScreenshot=true, javascriptEnabled=true, platformName=Android}]
+Session ID: fc7a23a6-8297-4a29-8127-931accf18a32
+*** Element info: {Using=css selector, value=.vux-header-back.v-transition}
+	at com.common.Common.waitForElementPresent(Common.java:94)
+	at com.common.Common.clickBtn(Common.java:168)
+	at com.base.StartBase.startToLogout(StartBase.java:49)
+	at com.cases.TestStartCase.release(TestStartCase.java:61)
+Caused by: org.openqa.selenium.UnsupportedCommandException: Invalid locator strategy: css selector (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 17 milliseconds
+Build info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:49:13 -0700'
+System info: host: 'DESKTOP-272J02D', ip: '30.87.249.71', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.choicesoft.mobile.ipos, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, deviceName=M101174900850, platform=LINUX, appActivity=.activity.MainActivity, desired={appPackage=com.choicesoft.mobile.ipos, appActivity=.activity.MainActivity, platformVersion=5.1, platformName=Android, deviceName=Android Emulator}, platformVersion=5.1, webStorageEnabled=false, locationContextEnabled=false, browserName=Android, takesScreenshot=true, javascriptEnabled=true, platformName=Android}]
+Session ID: fc7a23a6-8297-4a29-8127-931accf18a32
+*** Element info: {Using=css selector, value=.vux-header-back.v-transition}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:216)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:168)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:635)
+	at io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:42)
+	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:62)
+	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByCssSelector(RemoteWebDriver.java:465)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElementByCssSelector(DefaultGenericMobileDriver.java:129)
+	at io.appium.java_client.AppiumDriver.findElementByCssSelector(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.findElementByCssSelector(AndroidDriver.java:1)
+	at org.openqa.selenium.By$ByCssSelector.findElement(By.java:430)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:360)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:58)
+	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
+	at com.common.Common.waitForElementPresent(Common.java:87)
+	... 36 more
+

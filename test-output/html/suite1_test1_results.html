@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+<head>
+  <title>Test Results Report - Test</title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name="description" content="TestNG unit test results." />
+  <link href="reportng.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="reportng.js"></script>
+</head>
+<body>
+<h1>Test</h1>
+<p>
+  Test duration: 0.001s
+</p>
+
+  <table class="resultsTable configTable">
+    <tr><th colspan="3" class="header failedConfig">Failed Configuration</th></tr>
+              <tr class="group">
+        <td colspan="3">com.webtest.scm.cases.LoginCase</td>
+      </tr>
+            
+<tr>
+  <td class="method">
+                  beforeTest
+      </td>
+  <td class="duration">
+    0.000s
+  </td>
+  <td class="result">
+        
+    
+        
+
+        <a href="javascript:toggleElement('exception-0', 'block')" title="Click to expand/collapse"><b>java.lang.Exception: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;css selector&quot;,&quot;selector&quot;:&quot;.ant-form.ant-form-horizontal a&quot;}<br/>
+&nbsp; (Session info: chrome=67.0.3396.99)<br/>
+&nbsp; (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)<br/>
+Command duration or timeout: 10.11 seconds<br/>
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html<br/>
+Build info: version: &apos;3.0.1&apos;, revision: &apos;1969d75&apos;, time: &apos;2016-10-18 09:49:13 -0700&apos;<br/>
+System info: host: &apos;DESKTOP-272J02D&apos;, ip: &apos;30.87.249.31&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_151&apos;<br/>
+Driver info: org.openqa.selenium.chrome.ChromeDriver<br/>
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\lily\AppData\Local\Temp\scoped_dir8620_19037}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=67.0.3396.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]<br/>
+Session ID: 097ba8cff2fcc5c58dc153f38984d6ce<br/>
+*** Element info: {Using=css selector, value=.ant-form.ant-form-horizontal a}</b></a><br />
+    <div class="stackTrace" id="exception-0">
+              com.webtest.scm.common.Common.elementExist(Common.java:86)<br />
+              com.webtest.scm.base.LoginBase.verifyFirstPage(LoginBase.java:33)<br />
+              com.webtest.scm.cases.LoginCase.loginCase(LoginCase.java:18)<br />
+              com.webtest.scm.common.Common.beforeTest(Common.java:35)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:498)<br />
+              org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)<br />
+              org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:514)<br />
+              org.testng.internal.Invoker.invokeConfigurations(Invoker.java:215)<br />
+              org.testng.internal.Invoker.invokeConfigurations(Invoker.java:142)<br />
+              org.testng.TestRunner.beforeRun(TestRunner.java:656)<br />
+              org.testng.TestRunner.run(TestRunner.java:624)<br />
+              org.testng.SuiteRunner.runTest(SuiteRunner.java:366)<br />
+              org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)<br />
+              org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)<br />
+              org.testng.SuiteRunner.run(SuiteRunner.java:268)<br />
+              org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)<br />
+              org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)<br />
+              org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)<br />
+              org.testng.TestNG.runSuitesLocally(TestNG.java:1169)<br />
+              org.testng.TestNG.run(TestNG.java:1064)<br />
+              org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)<br />
+              org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)<br />
+              org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)<br />
+                    <b>Caused by: </b> <a href="javascript:toggleElement('exception-1', 'block')" title="Click to expand/collapse">org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;css selector&quot;,&quot;selector&quot;:&quot;.ant-form.ant-form-horizontal a&quot;}<br/>
+&nbsp; (Session info: chrome=67.0.3396.99)<br/>
+&nbsp; (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)<br/>
+Command duration or timeout: 10.11 seconds<br/>
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html<br/>
+Build info: version: &apos;3.0.1&apos;, revision: &apos;1969d75&apos;, time: &apos;2016-10-18 09:49:13 -0700&apos;<br/>
+System info: host: &apos;DESKTOP-272J02D&apos;, ip: &apos;30.87.249.31&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_151&apos;<br/>
+Driver info: org.openqa.selenium.chrome.ChromeDriver<br/>
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\lily\AppData\Local\Temp\scoped_dir8620_19037}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=67.0.3396.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]<br/>
+Session ID: 097ba8cff2fcc5c58dc153f38984d6ce<br/>
+*** Element info: {Using=css selector, value=.ant-form.ant-form-horizontal a}</a><br />
+        <div class="stackTrace" id="exception-1">
+                      sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)<br />
+                      sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)<br />
+                      sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)<br />
+                      java.lang.reflect.Constructor.newInstance(Constructor.java:423)<br />
+                      org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:216)<br />
+                      org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:168)<br />
+                      org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:635)<br />
+                      org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368)<br />
+                      org.openqa.selenium.remote.RemoteWebDriver.findElementByCssSelector(RemoteWebDriver.java:465)<br />
+                      org.openqa.selenium.By$ByCssSelector.findElement(By.java:430)<br />
+                      org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:360)<br />
+                      com.webtest.scm.common.Common.elementExist(Common.java:72)<br />
+                      com.webtest.scm.base.LoginBase.verifyFirstPage(LoginBase.java:33)<br />
+                      com.webtest.scm.cases.LoginCase.loginCase(LoginCase.java:18)<br />
+                      com.webtest.scm.common.Common.beforeTest(Common.java:35)<br />
+                      sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
+                      sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)<br />
+                      sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+                      java.lang.reflect.Method.invoke(Method.java:498)<br />
+                      org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)<br />
+                      org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:514)<br />
+                      org.testng.internal.Invoker.invokeConfigurations(Invoker.java:215)<br />
+                      org.testng.internal.Invoker.invokeConfigurations(Invoker.java:142)<br />
+                      org.testng.TestRunner.beforeRun(TestRunner.java:656)<br />
+                      org.testng.TestRunner.run(TestRunner.java:624)<br />
+                      org.testng.SuiteRunner.runTest(SuiteRunner.java:366)<br />
+                      org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)<br />
+                      org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)<br />
+                      org.testng.SuiteRunner.run(SuiteRunner.java:268)<br />
+                      org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)<br />
+                      org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)<br />
+                      org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)<br />
+                      org.testng.TestNG.runSuitesLocally(TestNG.java:1169)<br />
+                      org.testng.TestNG.run(TestNG.java:1064)<br />
+                      org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)<br />
+                      org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)<br />
+                      org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)<br />
+                  </div>
+          </div>
+      </td>
+</tr>
+    
+          <tr><td colspan="3">&nbsp;</td></tr>
+      <tr><td colspan="3" class="header skippedConfig">Skipped Configuration</td></tr>
+                    <tr>
+          <td colspan="3" class="group">com.webtest.scm.cases.LoginCase</td>
+        </tr>
+                
+<tr>
+  <td class="method">
+                  quitBrowser
+      </td>
+  <td class="duration">
+    0.000s
+  </td>
+  <td class="result">
+                               
+    
+        
+
+      </td>
+</tr>
+            </table>
+
+
+
+  <table class="resultsTable" width="100%">
+    <tr><th colspan="3" class="header skipped">Skipped Tests</th></tr>
+          <tr>
+        <td colspan="3" class="group">com.webtest.scm.cases.LoginCase</td>
+      </tr>
+            
+<tr>
+  <td class="method">
+                  loginCase
+      </td>
+  <td class="duration">
+    0.001s
+  </td>
+  <td class="result">
+                               
+    
+        
+
+      </td>
+</tr>
+      </table>
+
+  
+</body>
+</html>

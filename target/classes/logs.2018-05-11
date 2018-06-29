@@ -1,0 +1,37 @@
+2018-05-11 10:47:34  [ main:0 ] - [ INFO ]  The elment 忘记密码
+商户注册
+登 录 is exist!
+2018-05-11 10:47:34  [ main:5 ] - [ INFO ]  First page open successfully!
+2018-05-11 10:47:34  [ main:20 ] - [ INFO ]  The element is found!
+2018-05-11 10:47:34  [ main:286 ] - [ INFO ]  The element is found!
+2018-05-11 10:47:34  [ main:355 ] - [ INFO ]  The element is found!
+2018-05-11 10:48:31  [ main:57408 ] - [ ERROR ]  Wait for Element error!
+2018-05-11 16:00:03  [ main:0 ] - [ INFO ]  The elment 忘记密码
+商户注册
+登 录 is exist!
+2018-05-11 16:00:03  [ main:3 ] - [ INFO ]  First page open successfully!
+2018-05-11 16:00:03  [ main:181 ] - [ INFO ]  The element is found!
+2018-05-11 16:00:04  [ main:275 ] - [ INFO ]  The element is found!
+2018-05-11 16:00:04  [ main:344 ] - [ INFO ]  The element is found!
+2018-05-11 16:00:04  [ main:1058 ] - [ INFO ]  The elment 商家后台 is exist!
+2018-05-11 16:00:10  [ main:7188 ] - [ INFO ]  Login Succesfully!
+2018-05-11 16:00:18  [ main:14923 ] - [ INFO ]  The elment 基本设置
+档口管理
+仓库管理
+供应商管理
+物品管理
+门店进销存管理
+物流管理
+运营管理
+门店结算
+供应商结算
+报表中心 is present!
+2018-05-11 16:00:18  [ main:14959 ] - [ INFO ]  The elment 门店进销存管理 is present!
+2018-05-11 16:00:18  [ main:14966 ] - [ INFO ]  The element is found!
+2018-05-11 16:00:18  [ main:15127 ] - [ INFO ]  The elment 采购管理 is present!
+2018-05-11 16:00:18  [ main:15136 ] - [ INFO ]  The element is found!
+2018-05-11 16:00:19  [ main:15414 ] - [ INFO ]  The elment 采购管理 is present!
+2018-05-11 16:00:19  [ main:15471 ] - [ INFO ]  The elment 请选择门店 is present!
+2018-05-11 16:00:19  [ main:15479 ] - [ INFO ]  The element is found!
+2018-05-11 16:00:19  [ main:15582 ] - [ INFO ]  The element is found!
+2018-05-11 16:00:19  [ main:15829 ] - [ ERROR ]  Wait for Element error!

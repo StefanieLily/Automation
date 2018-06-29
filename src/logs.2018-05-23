@@ -1,0 +1,325 @@
+2018-05-23 09:38:24  [ main:0 ] - [ INFO ]  The elment 忘记密码
+商户注册
+登 录 is exist!
+2018-05-23 09:38:24  [ main:8 ] - [ INFO ]  First page open successfully!
+2018-05-23 09:38:24  [ main:25 ] - [ INFO ]  The element is found!
+2018-05-23 09:38:24  [ main:131 ] - [ INFO ]  The element is found!
+2018-05-23 09:38:24  [ main:210 ] - [ INFO ]  The element is found!
+2018-05-23 09:38:25  [ main:916 ] - [ INFO ]  The elment 商家后台 is exist!
+2018-05-23 09:38:25  [ main:917 ] - [ INFO ]  Login Succesfully!
+2018-05-23 09:38:27  [ main:2958 ] - [ INFO ]  The elment 基本设置
+税率设置
+门店管理
+BOM设置
+BOM方案
+期初
+单位管理
+档口管理
+配送中心设置
+批量替换物品
+安全库存设置
+仓库管理
+供应商管理
+物品管理
+门店进销存管理
+物流管理
+运营管理
+门店结算
+供应商结算
+报表中心 is present!
+2018-05-23 09:38:28  [ main:3997 ] - [ INFO ]  The elment 门店进销存管理 is present!
+2018-05-23 09:38:28  [ main:4006 ] - [ INFO ]  The element is found!
+2018-05-23 09:38:29  [ main:5117 ] - [ INFO ]  The elment 采购管理 is present!
+2018-05-23 09:38:29  [ main:5126 ] - [ INFO ]  The element is found!
+2018-05-23 09:38:30  [ main:6352 ] - [ INFO ]  The elment 请选择门店 is present!
+2018-05-23 09:38:30  [ main:6359 ] - [ INFO ]  The element is found!
+2018-05-23 09:38:31  [ main:6432 ] - [ INFO ]  The element is found!
+2018-05-23 09:38:32  [ main:7630 ] - [ INFO ]  The elment 添加请购单 is present!
+2018-05-23 09:38:32  [ main:7639 ] - [ INFO ]  The element is found!
+2018-05-23 09:38:33  [ main:8838 ] - [ INFO ]  The elment 新增请购单 is present!
+2018-05-23 09:38:33  [ main:8852 ] - [ INFO ]  The element is found!
+2018-05-23 09:38:33  [ main:8932 ] - [ INFO ]  The element is found!
+2018-05-23 09:38:34  [ main:10026 ] - [ INFO ]  The elment  is present!
+2018-05-23 09:38:34  [ main:10034 ] - [ INFO ]  The element is found!
+2018-05-23 09:38:35  [ main:11192 ] - [ INFO ]  The elment 请选择物品
+物品类别
+蔬菜
+肉类
+物品编码 物品名称 规格 标准单位 辅助单位 订货单位 采购单位
+020101001 猪头肉 公斤 公斤 公斤
+共 1 条
+1
+10 条/页
+跳至页
+取 消选 定 is present!
+2018-05-23 09:38:35  [ main:11205 ] - [ INFO ]  The element is found!
+2018-05-23 09:38:35  [ main:11261 ] - [ INFO ]  The element is found!
+2018-05-23 09:38:36  [ main:12399 ] - [ INFO ]  The elment  is present!
+2018-05-23 09:38:36  [ main:12406 ] - [ INFO ]  The element is found!
+2018-05-23 09:38:37  [ main:12461 ] - [ INFO ]  The element is found!
+2018-05-23 09:38:38  [ main:13606 ] - [ INFO ]  The elment 27 is present!
+2018-05-23 09:38:38  [ main:13614 ] - [ INFO ]  The element is found!
+2018-05-23 09:38:38  [ main:13713 ] - [ INFO ]  The element is found!
+2018-05-23 09:38:39  [ main:14832 ] - [ INFO ]  The elment QG2180523000001 is present!
+2018-05-23 09:38:39  [ main:14839 ] - [ INFO ]  The element is found!
+2018-05-23 09:38:39  [ main:14868 ] - [ INFO ]  The elment QG2180523000001 is exist!
+2018-05-23 09:38:39  [ main:14869 ] - [ INFO ]  Purchase order create successfully!
+2018-05-23 09:38:39  [ main:14882 ] - [ INFO ]  The element is found!
+2018-05-23 09:38:40  [ main:16006 ] - [ INFO ]  The elment 订单中心 is present!
+2018-05-23 09:38:40  [ main:16015 ] - [ INFO ]  The element is found!
+2018-05-23 09:38:41  [ main:17182 ] - [ INFO ]  The elment 请选择配送中心 is present!
+2018-05-23 09:38:41  [ main:17192 ] - [ INFO ]  The element is found!
+2018-05-23 09:38:41  [ main:17259 ] - [ INFO ]  The element is found!
+2018-05-23 09:38:43  [ main:18459 ] - [ INFO ]  The elment  is present!
+2018-05-23 09:38:43  [ main:18467 ] - [ INFO ]  The element is found!
+2018-05-23 09:38:43  [ main:18548 ] - [ INFO ]  The element is found!
+2018-05-23 09:38:44  [ main:19738 ] - [ INFO ]  The elment 拆 分 is present!
+2018-05-23 09:38:44  [ main:19746 ] - [ INFO ]  The element is found!
+2018-05-23 09:38:45  [ main:20839 ] - [ INFO ]  The elment 重要操作！
+请再次确认上方生成订单正确，否则拆分成功后将引起数据异常或错误！
+请慎重操作，是否继续拆分？
+取 消确认拆分 is present!
+2018-05-23 09:38:45  [ main:20850 ] - [ INFO ]  The element is found!
+2018-05-23 09:38:46  [ main:21951 ] - [ INFO ]  The elment 拆分成功 is present!
+2018-05-23 09:38:46  [ main:21963 ] - [ INFO ]  The element is found!
+2018-05-23 09:38:46  [ main:21985 ] - [ INFO ]  The element is found!
+2018-05-23 09:38:47  [ main:23245 ] - [ INFO ]  The elment 配送管理 is present!
+2018-05-23 09:38:47  [ main:23255 ] - [ INFO ]  The element is found!
+2018-05-23 09:38:49  [ main:24424 ] - [ INFO ]  The elment PS1180523000001 is present!
+2018-05-23 09:38:49  [ main:24435 ] - [ INFO ]  The element is found!
+2018-05-23 09:38:50  [ main:25600 ] - [ INFO ]  The elment 编辑配送订单 is present!
+2018-05-23 09:38:50  [ main:25607 ] - [ INFO ]  The element is found!
+2018-05-23 09:39:01  [ main:36720 ] - [ ERROR ]  Wait for Element error!
+2018-05-23 09:44:49  [ main:0 ] - [ INFO ]  The elment 忘记密码
+商户注册
+登 录 is exist!
+2018-05-23 09:44:49  [ main:2 ] - [ INFO ]  First page open successfully!
+2018-05-23 09:44:49  [ main:16 ] - [ INFO ]  The element is found!
+2018-05-23 09:44:49  [ main:110 ] - [ INFO ]  The element is found!
+2018-05-23 09:44:49  [ main:176 ] - [ INFO ]  The element is found!
+2018-05-23 09:44:50  [ main:1056 ] - [ INFO ]  The elment 商家后台 is exist!
+2018-05-23 09:44:50  [ main:1056 ] - [ INFO ]  Login Succesfully!
+2018-05-23 09:44:52  [ main:3066 ] - [ INFO ]  The elment 基本设置
+税率设置
+门店管理
+BOM设置
+BOM方案
+期初
+单位管理
+档口管理
+配送中心设置
+批量替换物品
+安全库存设置
+仓库管理
+供应商管理
+物品管理
+门店进销存管理
+物流管理
+运营管理
+门店结算
+供应商结算
+报表中心 is present!
+2018-05-23 09:44:53  [ main:4105 ] - [ INFO ]  The elment 门店进销存管理 is present!
+2018-05-23 09:44:53  [ main:4113 ] - [ INFO ]  The element is found!
+2018-05-23 09:44:54  [ main:5215 ] - [ INFO ]  The elment 采购管理 is present!
+2018-05-23 09:44:54  [ main:5223 ] - [ INFO ]  The element is found!
+2018-05-23 09:44:55  [ main:6433 ] - [ INFO ]  The elment 请选择门店 is present!
+2018-05-23 09:44:55  [ main:6442 ] - [ INFO ]  The element is found!
+2018-05-23 09:44:55  [ main:6514 ] - [ INFO ]  The element is found!
+2018-05-23 09:44:57  [ main:7701 ] - [ INFO ]  The elment 添加请购单 is present!
+2018-05-23 09:44:57  [ main:7710 ] - [ INFO ]  The element is found!
+2018-05-23 09:44:58  [ main:8894 ] - [ INFO ]  The elment 新增请购单 is present!
+2018-05-23 09:44:58  [ main:8907 ] - [ INFO ]  The element is found!
+2018-05-23 09:44:58  [ main:8981 ] - [ INFO ]  The element is found!
+2018-05-23 09:44:59  [ main:10074 ] - [ INFO ]  The elment  is present!
+2018-05-23 09:44:59  [ main:10082 ] - [ INFO ]  The element is found!
+2018-05-23 09:45:00  [ main:11232 ] - [ INFO ]  The elment 请选择物品
+物品类别
+蔬菜
+肉类
+物品编码 物品名称 规格 标准单位 辅助单位 订货单位 采购单位
+020101001 猪头肉 公斤 公斤 公斤
+共 1 条
+1
+10 条/页
+跳至页
+取 消选 定 is present!
+2018-05-23 09:45:00  [ main:11243 ] - [ INFO ]  The element is found!
+2018-05-23 09:45:00  [ main:11313 ] - [ INFO ]  The element is found!
+2018-05-23 09:45:01  [ main:12447 ] - [ INFO ]  The elment  is present!
+2018-05-23 09:45:01  [ main:12456 ] - [ INFO ]  The element is found!
+2018-05-23 09:45:01  [ main:12513 ] - [ INFO ]  The element is found!
+2018-05-23 09:45:03  [ main:13667 ] - [ INFO ]  The elment 27 is present!
+2018-05-23 09:45:03  [ main:13675 ] - [ INFO ]  The element is found!
+2018-05-23 09:45:03  [ main:13775 ] - [ INFO ]  The element is found!
+2018-05-23 09:45:04  [ main:14937 ] - [ INFO ]  The elment QG2180523000003 is present!
+2018-05-23 09:45:04  [ main:14944 ] - [ INFO ]  The element is found!
+2018-05-23 09:45:04  [ main:14971 ] - [ INFO ]  The elment QG2180523000003 is exist!
+2018-05-23 09:45:04  [ main:14972 ] - [ INFO ]  Purchase order create successfully!
+2018-05-23 09:45:04  [ main:14985 ] - [ INFO ]  The element is found!
+2018-05-23 09:45:05  [ main:16083 ] - [ INFO ]  The elment 订单中心 is present!
+2018-05-23 09:45:05  [ main:16091 ] - [ INFO ]  The element is found!
+2018-05-23 09:45:06  [ main:17236 ] - [ INFO ]  The elment 请选择配送中心 is present!
+2018-05-23 09:45:06  [ main:17244 ] - [ INFO ]  The element is found!
+2018-05-23 09:45:06  [ main:17312 ] - [ INFO ]  The element is found!
+2018-05-23 09:45:07  [ main:18504 ] - [ INFO ]  The elment  is present!
+2018-05-23 09:45:07  [ main:18512 ] - [ INFO ]  The element is found!
+2018-05-23 09:45:08  [ main:18601 ] - [ INFO ]  The element is found!
+2018-05-23 09:45:09  [ main:19788 ] - [ INFO ]  The elment 拆 分 is present!
+2018-05-23 09:45:09  [ main:19794 ] - [ INFO ]  The element is found!
+2018-05-23 09:45:10  [ main:20928 ] - [ INFO ]  The elment 重要操作！
+请再次确认上方生成订单正确，否则拆分成功后将引起数据异常或错误！
+请慎重操作，是否继续拆分？
+取 消确认拆分 is present!
+2018-05-23 09:45:10  [ main:20941 ] - [ INFO ]  The element is found!
+2018-05-23 09:45:11  [ main:22062 ] - [ INFO ]  The elment 拆分成功 is present!
+2018-05-23 09:45:11  [ main:22075 ] - [ INFO ]  The element is found!
+2018-05-23 09:45:11  [ main:22096 ] - [ INFO ]  The element is found!
+2018-05-23 09:45:12  [ main:23308 ] - [ INFO ]  The elment 配送管理 is present!
+2018-05-23 09:45:12  [ main:23317 ] - [ INFO ]  The element is found!
+2018-05-23 09:45:13  [ main:24486 ] - [ INFO ]  The elment PS1180523000003 is present!
+2018-05-23 09:45:13  [ main:24498 ] - [ INFO ]  The element is found!
+2018-05-23 09:45:15  [ main:25715 ] - [ INFO ]  The elment 编辑配送订单 is present!
+2018-05-23 09:45:15  [ main:25722 ] - [ INFO ]  The element is found!
+2018-05-23 09:45:16  [ main:26795 ] - [ INFO ]  The elment 配送管理 is present!
+2018-05-23 09:45:16  [ main:26802 ] - [ INFO ]  The element is found!
+2018-05-23 09:45:17  [ main:27988 ] - [ INFO ]  The elment 待出库 is present!
+2018-05-23 09:45:17  [ main:27996 ] - [ INFO ]  The element is found!
+2018-05-23 09:45:17  [ main:28005 ] - [ INFO ]  Order status is right! And Status is: 待出库
+2018-05-23 09:45:17  [ main:28018 ] - [ INFO ]  The element is found!
+2018-05-23 09:45:18  [ main:29175 ] - [ INFO ]  The elment PS1180523000003 is present!
+2018-05-23 09:45:18  [ main:29190 ] - [ INFO ]  The element is found!
+2018-05-23 09:45:19  [ main:30362 ] - [ INFO ]  The elment 编辑出库单 is present!
+2018-05-23 09:45:19  [ main:30370 ] - [ INFO ]  The element is found!
+2018-05-23 09:45:20  [ main:31494 ] - [ INFO ]  The elment 已出库 is present!
+2018-05-23 09:45:20  [ main:31501 ] - [ INFO ]  The element is found!
+2018-05-23 09:45:20  [ main:31509 ] - [ INFO ]  Order status is right! And Status is: 已出库
+2018-05-23 09:45:21  [ main:32546 ] - [ INFO ]  The elment 门店进销存管理 is present!
+2018-05-23 09:45:21  [ main:32554 ] - [ INFO ]  The element is found!
+2018-05-23 09:45:22  [ main:32661 ] - [ INFO ]  The element is found!
+2018-05-23 09:45:23  [ main:33853 ] - [ INFO ]  The elment 配送验收 is present!
+2018-05-23 09:45:23  [ main:33866 ] - [ INFO ]  The element is found!
+2018-05-23 09:45:23  [ main:33935 ] - [ INFO ]  The element is found!
+2018-05-23 09:45:23  [ main:34145 ] - [ INFO ]  The element is found!
+2018-05-23 09:45:23  [ main:34353 ] - [ INFO ]  The element is found!
+2018-05-23 09:45:23  [ main:34429 ] - [ INFO ]  The element is found!
+2018-05-23 09:45:23  [ main:34512 ] - [ INFO ]  The element is found!
+2018-05-23 09:45:24  [ main:34597 ] - [ INFO ]  The element is found!
+2018-05-23 09:53:26  [ main:0 ] - [ INFO ]  The elment 忘记密码
+商户注册
+登 录 is exist!
+2018-05-23 09:53:26  [ main:2 ] - [ INFO ]  First page open successfully!
+2018-05-23 09:53:26  [ main:14 ] - [ INFO ]  The element is found!
+2018-05-23 09:53:26  [ main:106 ] - [ INFO ]  The element is found!
+2018-05-23 09:53:26  [ main:174 ] - [ INFO ]  The element is found!
+2018-05-23 09:53:27  [ main:1222 ] - [ INFO ]  The elment 商家后台 is exist!
+2018-05-23 09:53:27  [ main:1223 ] - [ INFO ]  Login Succesfully!
+2018-05-23 09:53:30  [ main:3428 ] - [ INFO ]  The elment 基本设置
+税率设置
+门店管理
+BOM设置
+BOM方案
+期初
+单位管理
+档口管理
+配送中心设置
+批量替换物品
+安全库存设置
+仓库管理
+供应商管理
+物品管理
+门店进销存管理
+物流管理
+运营管理
+门店结算
+供应商结算
+报表中心 is present!
+2018-05-23 09:53:31  [ main:4486 ] - [ INFO ]  The elment 门店进销存管理 is present!
+2018-05-23 09:53:31  [ main:4494 ] - [ INFO ]  The element is found!
+2018-05-23 09:53:32  [ main:5595 ] - [ INFO ]  The elment 采购管理 is present!
+2018-05-23 09:53:32  [ main:5604 ] - [ INFO ]  The element is found!
+2018-05-23 09:53:33  [ main:6832 ] - [ INFO ]  The elment 请选择门店 is present!
+2018-05-23 09:53:33  [ main:6841 ] - [ INFO ]  The element is found!
+2018-05-23 09:53:33  [ main:6910 ] - [ INFO ]  The element is found!
+2018-05-23 09:53:34  [ main:8135 ] - [ INFO ]  The elment 添加请购单 is present!
+2018-05-23 09:53:34  [ main:8142 ] - [ INFO ]  The element is found!
+2018-05-23 09:53:36  [ main:9333 ] - [ INFO ]  The elment 新增请购单 is present!
+2018-05-23 09:53:36  [ main:9346 ] - [ INFO ]  The element is found!
+2018-05-23 09:53:36  [ main:9423 ] - [ INFO ]  The element is found!
+2018-05-23 09:53:37  [ main:10539 ] - [ INFO ]  The elment  is present!
+2018-05-23 09:53:37  [ main:10548 ] - [ INFO ]  The element is found!
+2018-05-23 09:53:38  [ main:11699 ] - [ INFO ]  The elment 请选择物品
+物品类别
+蔬菜
+肉类
+物品编码 物品名称 规格 标准单位 辅助单位 订货单位 采购单位
+020101001 猪头肉 公斤 公斤 公斤
+共 1 条
+1
+10 条/页
+跳至页
+取 消选 定 is present!
+2018-05-23 09:53:38  [ main:11712 ] - [ INFO ]  The element is found!
+2018-05-23 09:53:38  [ main:11773 ] - [ INFO ]  The element is found!
+2018-05-23 09:53:39  [ main:12912 ] - [ INFO ]  The elment  is present!
+2018-05-23 09:53:39  [ main:12920 ] - [ INFO ]  The element is found!
+2018-05-23 09:53:39  [ main:12975 ] - [ INFO ]  The element is found!
+2018-05-23 09:53:40  [ main:14129 ] - [ INFO ]  The elment 27 is present!
+2018-05-23 09:53:40  [ main:14137 ] - [ INFO ]  The element is found!
+2018-05-23 09:53:40  [ main:14238 ] - [ INFO ]  The element is found!
+2018-05-23 09:53:42  [ main:15359 ] - [ INFO ]  The elment QG2180523000004 is present!
+2018-05-23 09:53:42  [ main:15367 ] - [ INFO ]  The element is found!
+2018-05-23 09:53:42  [ main:15395 ] - [ INFO ]  The elment QG2180523000004 is exist!
+2018-05-23 09:53:42  [ main:15395 ] - [ INFO ]  Purchase order create successfully!
+2018-05-23 09:53:42  [ main:15407 ] - [ INFO ]  The element is found!
+2018-05-23 09:53:43  [ main:16535 ] - [ INFO ]  The elment 订单中心 is present!
+2018-05-23 09:53:43  [ main:16543 ] - [ INFO ]  The element is found!
+2018-05-23 09:53:44  [ main:17709 ] - [ INFO ]  The elment 请选择配送中心 is present!
+2018-05-23 09:53:44  [ main:17717 ] - [ INFO ]  The element is found!
+2018-05-23 09:53:44  [ main:17789 ] - [ INFO ]  The element is found!
+2018-05-23 09:53:45  [ main:19048 ] - [ INFO ]  The elment  is present!
+2018-05-23 09:53:45  [ main:19055 ] - [ INFO ]  The element is found!
+2018-05-23 09:53:45  [ main:19144 ] - [ INFO ]  The element is found!
+2018-05-23 09:53:47  [ main:20367 ] - [ INFO ]  The elment 拆 分 is present!
+2018-05-23 09:53:47  [ main:20375 ] - [ INFO ]  The element is found!
+2018-05-23 09:53:48  [ main:21468 ] - [ INFO ]  The elment 重要操作！
+请再次确认上方生成订单正确，否则拆分成功后将引起数据异常或错误！
+请慎重操作，是否继续拆分？
+取 消确认拆分 is present!
+2018-05-23 09:53:48  [ main:21479 ] - [ INFO ]  The element is found!
+2018-05-23 09:53:49  [ main:22574 ] - [ INFO ]  The elment 拆分成功 is present!
+2018-05-23 09:53:49  [ main:22585 ] - [ INFO ]  The element is found!
+2018-05-23 09:53:49  [ main:22608 ] - [ INFO ]  The element is found!
+2018-05-23 09:53:50  [ main:23850 ] - [ INFO ]  The elment 配送管理 is present!
+2018-05-23 09:53:50  [ main:23859 ] - [ INFO ]  The element is found!
+2018-05-23 09:53:51  [ main:25044 ] - [ INFO ]  The elment PS1180523000004 is present!
+2018-05-23 09:53:51  [ main:25056 ] - [ INFO ]  The element is found!
+2018-05-23 09:53:52  [ main:26246 ] - [ INFO ]  The elment 编辑配送订单 is present!
+2018-05-23 09:53:52  [ main:26253 ] - [ INFO ]  The element is found!
+2018-05-23 09:53:54  [ main:27322 ] - [ INFO ]  The elment 配送管理 is present!
+2018-05-23 09:53:54  [ main:27329 ] - [ INFO ]  The element is found!
+2018-05-23 09:53:55  [ main:28511 ] - [ INFO ]  The elment 待出库 is present!
+2018-05-23 09:53:55  [ main:28518 ] - [ INFO ]  The element is found!
+2018-05-23 09:53:55  [ main:28525 ] - [ INFO ]  Order status is right! And Status is: 待出库
+2018-05-23 09:53:55  [ main:28537 ] - [ INFO ]  The element is found!
+2018-05-23 09:53:56  [ main:29716 ] - [ INFO ]  The elment PS1180523000004 is present!
+2018-05-23 09:53:56  [ main:29729 ] - [ INFO ]  The element is found!
+2018-05-23 09:53:57  [ main:30894 ] - [ INFO ]  The elment 编辑出库单 is present!
+2018-05-23 09:53:57  [ main:30901 ] - [ INFO ]  The element is found!
+2018-05-23 09:53:58  [ main:32000 ] - [ INFO ]  The elment 已出库 is present!
+2018-05-23 09:53:58  [ main:32007 ] - [ INFO ]  The element is found!
+2018-05-23 09:53:58  [ main:32016 ] - [ INFO ]  Order status is right! And Status is: 已出库
+2018-05-23 09:53:59  [ main:33054 ] - [ INFO ]  The elment 门店进销存管理 is present!
+2018-05-23 09:53:59  [ main:33061 ] - [ INFO ]  The element is found!
+2018-05-23 09:53:59  [ main:33138 ] - [ INFO ]  The element is found!
+2018-05-23 09:54:01  [ main:34343 ] - [ INFO ]  The elment 配送验收 is present!
+2018-05-23 09:54:01  [ main:34356 ] - [ INFO ]  The element is found!
+2018-05-23 09:54:01  [ main:34426 ] - [ INFO ]  The element is found!
+2018-05-23 09:54:01  [ main:34670 ] - [ INFO ]  The element is found!
+2018-05-23 09:54:01  [ main:34852 ] - [ INFO ]  The element is found!
+2018-05-23 09:54:01  [ main:34922 ] - [ INFO ]  The element is found!
+2018-05-23 09:54:01  [ main:35005 ] - [ INFO ]  The element is found!
+2018-05-23 09:54:01  [ main:35089 ] - [ INFO ]  The element is found!
+2018-05-23 09:54:02  [ main:36140 ] - [ INFO ]  The elment 已验收 is present!
+2018-05-23 09:54:02  [ main:36149 ] - [ INFO ]  The element is found!
+2018-05-23 09:54:02  [ main:36157 ] - [ INFO ]  Order status is right! And Status is: 已验收
